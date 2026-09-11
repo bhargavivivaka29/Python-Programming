@@ -598,3 +598,50 @@ In the next section, I will learn how operators are combined with conditions to 
 ---
 
 ⭐ **Python Programming Journey — Basic → Intermediate → Advanced**
+
+
+# 🐍 Python If Conditions
+
+The `if` statement is used to execute a block of code when a specified condition is `True`.
+
+## 📌 Syntax
+
+```python
+if condition:
+    statement
+```
+
+## 🔹 Example
+
+```python
+age = 20
+
+if age >= 18:
+    print("Eligible")
+```
+
+**Output:**
+
+```text
+Eligible
+```
+
+## 📚 Topics Covered
+
+* Basic `if` statement
+* Comparison operators with `if`
+* Logical operators (`and`, `or`, `not`)
+* Multiple `if` statements
+* Nested `if` statements
+* Number and character conditions
+* Range and divisibility checks
+* Real-world conditional problems
+* Beginner to advanced practice problems
+
+## 🎯 Learning Goal
+
+By completing this section, I will understand how to use `if` conditions to make decisions in Python and apply them to programming problems.
+
+## 🚀 Next Topic
+
+**03-If-Else**
