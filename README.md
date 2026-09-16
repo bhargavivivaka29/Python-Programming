@@ -642,6 +642,46 @@ Eligible
 
 By completing this section, I will understand how to use `if` conditions to make decisions in Python and apply them to programming problems.
 
-## 🚀 Next Topic
+# 🐍 Python If Statements — Batch 2
 
-**03-If-Else**
+This batch focuses on **digit-based problems using Python `if` statements**.
+
+## 📌 Topics Covered
+
+* First and last digit operations
+* Even and odd digit checks
+* Digit comparison
+* Digit count
+* Digit sum and product
+* Palindrome numbers
+* Digit occurrence
+* Checking all digits
+* Increasing and decreasing digits
+* Digit parity
+* Number-based logical conditions
+
+## 🎯 Practice Level
+
+**Intermediate → Advanced**
+
+The programs in this batch combine:
+
+* `if` statements
+* Comparison operators
+* Logical operators
+* `%` and `//`
+* `while` loops for digit processing
+* Nested conditional logic
+
+## 🧠 Learning Goal
+
+To improve problem-solving skills by applying `if` conditions to different digit-based programming problems.
+
+## 📂 Programs
+
+This batch contains programs from **36 to 67**, covering different types of digit-processing problems.
+
+## 🚀 Next
+
+**IF Statement — Batch 3: Character & String Problems**
+
